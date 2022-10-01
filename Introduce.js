@@ -11,7 +11,7 @@ const minsung = {
         return 'hello '  + guest + ' my name is minsung'
     },
 
-    hobby: ['youtube', 'football']
+    hobby: ['readingbook', 'coding']
 }
 
 console.log(minsung['name']['first']);
