@@ -1,1 +1,2 @@
-# JavaScript Basic Source 
+# JavaScript Basic Source
+- Basic Sample JS
